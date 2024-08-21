@@ -14,11 +14,11 @@ I am a seasoned Fullstack Developer and Generative AI Assistant Developer with a
 
 ## Skills
 
-- **Languages:** JavaScript, Python, HTML, CSS
-- **Frontend:** React, Redux, Next.js
-- **Backend:** Node.js, Express, MongoDB
-- **AI/ML:** TensorFlow, PyTorch, NLP, GPT-3/4
-- **Tools:** Git, Docker, Kubernetes, AWS
+- **Languages:** JavaScript, Python, HTML, CSS.
+- **Frontend:** React, Redux, Next.js.
+- **Backend:** Node.js, Express, MongoDB.
+- **AI/ML:** TensorFlow, PyTorch, NLP, GPT-3/4.
+- **Tools:** Git, Docker, Kubernetes, AWS.
 
 ## Projects
 
@@ -26,7 +26,7 @@ I am a seasoned Fullstack Developer and Generative AI Assistant Developer with a
 Developed a cutting-edge AI chatbot using GPT-4, enhancing user interactions with natural language understanding and response generation.
 
 ### E-Commerce Platform
-Built a full-featured e-commerce platform with MERN stack, integrating payment gateways, user authentication, and a seamless user experience.
+Built a full-featured e-commerce platform with MERN STACK, integrating payment gateways, user authentication, and a seamless user experience.
 
 ### Open-Source Contributions
 Contributed to various open-source projects, focusing on improving documentation, fixing bugs, and adding new features to enhance the community-driven development process.
