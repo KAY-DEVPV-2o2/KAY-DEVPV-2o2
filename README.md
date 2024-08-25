@@ -9,15 +9,28 @@
 
 ## About Me:
 
-I am a seasoned Fullstack Developer and Generative AI Assistant Developer with a passion for building impactful digital solutions. My journey in tech has been fueled by a relentless curiosity and a commitment to continuous learning. Whether I'm developing sophisticated web applications or creating intelligent AI chatbots, I strive for excellence and innovation in every project I undertake.
+I am a seasoned Fullstack Developer and Generative AI Chatbot Developer with a passion for building impactful digital solutions. My journey in tech has been fueled by a relentless curiosity and a commitment to continuous learning. Whether I'm developing sophisticated web applications or creating intelligent AI Conversational chatbots, I strive for excellence and innovation in every project I undertake.
 
 ## Skills:
+Certainly! You can expand the **Techniques/Features** section to include more relevant aspects of web development and other skills. Here's an updated list:
 
 - **Languages:** JavaScript, Python, HTML, CSS.
-- **Frontend:** React, Redux, Next.js.
+- **Frontend:** React, Redux, Next.js, Tailwind CSS, Bootstrap, Font Awesome.
 - **Backend:** Node.js, Express, MongoDB.
-- **AI/ML:** TensorFlow, PyTorch, NLP, GPT-3/4.
+- **AI/ML:** TensorFlow, PyTorch, NLP, GPT-3.5/4.
 - **Tools:** Git, Docker, Kubernetes, AWS.
+- **Techniques/Features:**
+  - Smooth Scrolling
+  - Responsive Design
+  - Cross-Browser Compatibility
+  - Performance Optimization
+  - User Experience (UX) Design
+  - Accessibility (a11y) Best Practices
+  - Progressive Web Apps (PWA)
+  - API Integration
+  - Single Page Applications (SPA)
+  - Server-Side Rendering (SSR)
+  - Static Site Generation (SSG)
 
 ## Projects:
 
