@@ -43,7 +43,12 @@ Built a full-featured e-commerce platform with MERN STACK, integrating payment g
 ### Open-Source Contributions:
 Contributed to various open-source projects, focusing on improving documentation, fixing bugs, and adding new features to enhance the community-driven development process.
 
-## Get in Touch:
-I'm always excited to connect with fellow developers, AI enthusiasts, and potential collaborators. Feel free to reach out to me via Email: kdrebornv2@outlook.com, kdrebornv2.o@outlook.com | LinkedIn: https://www.linkedin.com/in/khurramiqbal-7BB50a201.
+## Get in Touch ✨
 
-Let's create something amazing together!
+I'm always excited to connect with fellow developers, AI enthusiasts, and potential collaborators. Feel free to reach out to me via:
+
+- **Email:** [kdrebornv2@outlook.com](mailto:kdrebornv2@outlook.com) 📧, [kdrebornv2.o@outlook.com](mailto:kdrebornv2.o@outlook.com) 📧
+- **LinkedIn:** [Khurram Iqbal](https://www.linkedin.com/in/khurramiqbal-7BB50a201) 🔗
+- **Portfolio Website:** [Khurram Iqbal Portfolio](https://kay-devpv-2o2.github.io/khurram-iqbal-portfolio/) 🌐
+
+Let's create something amazing together! 🚀
