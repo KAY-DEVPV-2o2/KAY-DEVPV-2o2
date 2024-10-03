@@ -47,7 +47,7 @@ Get in Touch ✨
 I'm always excited to connect with fellow developers, AI enthusiasts, and potential collaborators. Feel free to reach out to me via:
 
 - **Email:** [kdrebornv2@outlook.com](mailto:kdrebornv2@outlook.com) 📧, [kdrebornv2.o@outlook.com](mailto:kdrebornv2.o@outlook.com) 📧
-- **LinkedIn:** (https://www.linkedin.com/in/khurramiqbal-7BB50a201) 🔗
+- **LinkedIn:** (https://pk.linkedin.com/in/khurram-iqbal-7bb50a201) 🔗
 - **Portfolio Website:** (https://kay-devpv-2o2.github.io/khurram-iqbal-portfolio/) 🌐
 
 Let's create something amazing together! 🚀
