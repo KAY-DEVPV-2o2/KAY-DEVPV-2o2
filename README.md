@@ -1,6 +1,4 @@
-Hi, I'm Khurram Iqbal (K.D.)! 👋
-
-👋 Hi, I’m @KAY-DEVP-V-2o2.  
+👋 Hi, I'm Khurram Iqbal @K-DEVP-V-2o2.  
 👀 I’m interested in Fullstack Development and Generative AI.  
 🌱 I’m currently learning advanced Generative AI techniques and exploring the latest trends in the MERN STACK. 
 💞️ I’m looking to collaborate on innovative AI projects and dynamic web applications.
