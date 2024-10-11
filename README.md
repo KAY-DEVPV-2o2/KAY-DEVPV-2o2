@@ -46,6 +46,6 @@ I'm always excited to connect with fellow developers, AI enthusiasts, and potent
 
 - **Email:** [kdrebornv2@outlook.com](mailto:kdrebornv2@outlook.com) 📧, [kdrebornv2.o@outlook.com](mailto:kdrebornv2.o@outlook.com) 📧
 - **LinkedIn:** (https://pk.linkedin.com/in/khurram-iqbal-7bb50a201) 🔗
-- **Portfolio Website:** (https://kay-devpv-2o2.github.io/kay-devpv-2o2-portfolio/)) 🌐
+- **Portfolio Website:** (https://github.com/KAY-DEVPV-2o2) 🌐
 
 Let's create something amazing together! 🚀
