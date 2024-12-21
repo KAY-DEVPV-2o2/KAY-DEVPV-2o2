@@ -11,12 +11,12 @@ I am a seasoned Fullstack Developer and Generative AI Chatbot Developer with a p
 
 Skills:
 -------
-- **Languages:** JavaScript, Python, HTML, CSS.
-- **Frontend:** React, Redux, Next.js, Vue.js, Tailwind CSS, Bootstrap, Font Awesome.
-- **Backend:** Node.js, Express, MongoDB.
-- **AI/ML:** TensorFlow, PyTorch, NLP, GPT-3.5/4.
-- **Tools:** Git, Docker, Kubernetes, AWS.
-- **Techniques/Features:**
+  - Languages: JavaScript, Python, HTML, CSS, TypeScript.
+  - Frontend: React, Redux, Next.js, Vue.js, Angular.js, Tailwind CSS, Bootstrap, Font Awesome.
+  - Backend: Node.js, Express, MongoDB.
+  - AI/ML: TensorFlow, PyTorch, NLP, GPT-3.5/4.
+  - Tools: Git, Docker, Kubernetes, AWS .
+  - Techniques/Features:**
   - Smooth Scrolling
   - Responsive Design
   - Cross-Browser Compatibility
@@ -44,8 +44,8 @@ Get in Touch ✨
 
 I'm always excited to connect with fellow developers, AI enthusiasts, and potential collaborators. Feel free to reach out to me via:
 
-- **Email:** [kdrebornv2@outlook.com](mailto:kdrebornv2@outlook.com) 📧, [kdrebornv2.o@outlook.com](mailto:kdrebornv2.o@outlook.com) 📧
-- **LinkedIn:** (https://pk.linkedin.com/in/khurram-iqbal-7bb50a201) 🔗
-- **Portfolio Website:** (https://github.com/KAY-DEVPV-2o2) 🌐
+Email: [kdrebornv2@outlook.com](mailto:kdrebornv2@outlook.com) 📧, [kdrebornv.2o2@outlook.com](mailto:kdrebornv2.o@outlook.com) 📧
+LinkedIn:(https://pk.linkedin.com/in/khurram-iqbal-7bb50a201) 🔗
+Portfolio Website:(https://k-devp-v-2o2-react-portfolio.netlify.app/)🌐
 
 Let's create something amazing together! 🚀
