@@ -1,13 +1,6 @@
-👋 Hi, I'm Khurram Iqbal @K-DEVP-V-2o2.  
-👀 I’m interested in Fullstack Development and Generative AI.  
-🌱 I’m currently learning advanced Generative AI techniques and exploring the latest trends in the MERN STACK. 
-💞️ I’m looking to collaborate on innovative AI projects and dynamic web applications.
-😄 Pronouns: He/Him.  
-⚡ Fun fact: I love solving complex algorithms while enjoying a good cup of coffee!
-
 About Me:
-
-I am a seasoned Fullstack Developer and Generative AI Chatbot Developer with a passion for building impactful digital solutions. My journey in tech has been fueled by a relentless curiosity and a commitment to continuous learning. Whether I'm developing sophisticated web applications or creating intelligent AI Conversational chatbots, I strive for excellence and innovation in every project I undertake.
+---------
+I am a seasoned Fullstack & Generative AI Chatbot Developer with a passion for building impactful digital solutions. My journey in tech has been fueled by a relentless curiosity and a commitment to continuous learning. Whether I'm developing sophisticated web applications or creating intelligent AI Conversational chatbots, I strive for excellence and innovation in every project I undertake.
 
 Skills:
 -------
